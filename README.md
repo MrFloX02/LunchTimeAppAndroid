@@ -2,7 +2,7 @@
 - Messager Eric
 
 ## Subject 
-LunchTime application on Android devices
+LunchTime application for Android devices
 
 ## Languages
 - Java
